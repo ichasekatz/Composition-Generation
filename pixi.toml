@@ -1,0 +1,20 @@
+[workspace]
+authors = ["Chase Katz <chase1602@icloud.com>"]
+channels = ["conda-forge"]
+name = "Composition-Gen"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "==3.12"
+ipykernel = ">=7.1.0,<8"
+numpy = ">=2.4.0,<3"
+pandas = ">=2.3.3,<3"
+matplotlib = ">=3.10.8,<4"
+tqdm = ">=4.67.1,<5"
+h5py = ">=3.15.1,<4"
+openpyxl = ">=3.1.5,<4"
+scipy = ">=1.16.3,<2"
+pip = ">=25.3,<26"
