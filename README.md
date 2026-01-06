@@ -1,4 +1,4 @@
-# Ni-Based Composition Generator
+Composition Generator
 
 This repository contains a Jupyter notebook for **systematic generation of Ni-based alloy compositions** with user-controlled resolution, dopant ranges, and balance constraints. The workflow is designed for **materials design and dataset generation**, producing composition tables suitable for downstream modeling, optimization, or simulation.
 
